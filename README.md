@@ -71,6 +71,6 @@ java Calculator.java
 | Arumona Adaihotu Isaac | U23CS1014 | [@Urumashi001](https://github.com/Urumashi001) |
 | Mohammad Isah | U23CS1015 | [@Imas419](https://github.com/Imas419) |
 | Muhktar Dalhatu | U23CS1016 | [@muksfd](https://github.com/muksfd) |
-| Aminu Ibrahim Ayomide | U23CS1017 |  |
+| Aminu Ibrahim Ayomide | U23CS1017 | [@AminuU23CS1017](https://github.com/AminuU23CS1017) |
 | Isowo smart Emmanuel | U23CS1018 | [@Blaqsmart](https://github.com/Blaqsmart) |
 | Ambali Oladele Ridwan | U23CS1019 | [@IamRed-One](https://github.com/iamRed-One) |
