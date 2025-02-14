@@ -64,13 +64,13 @@ java Calculator.java
 
 | Names | Matric Numbers | Github Usernames |
 |------------|------------|------------|
+| Shehu Sadiq Musa | U23CS1010 | [@svdeeq21](https://github.com/svdeeq21) |
 | Okoroafor Armstrong | U23CS1011 | [@Armmy900](https://github.com/Armmy900/) |
 | Adam Dalhatu | U23CS1012 | [@adamdalhatu](https://github.com/iamRed-One) |
 | Edet Destiny Sunday | U23CS1013 | [@Des-works](https://github.com/Des-works) |
-| Arumona Adaihotu Isaac | U23CS1014 | [@urumashi001](https://github.com/urumashi001) |
+| Arumona Adaihotu Isaac | U23CS1014 | [@Urumashi001](https://github.com/Urumashi001) |
 | Mohammad Isah | U23CS1015 | [@Imas419](https://github.com/Imas419) |
 | Muhktar Dalhatu | U23CS1016 | [@muksfd](https://github.com/muksfd) |
 | Aminu Ibrahim Ayomide | U23CS1017 |  |
 | Isowo smart Emmanuel | U23CS1018 | [@Blaqsmart](https://github.com/Blaqsmart) |
 | Ambali Oladele Ridwan | U23CS1019 | [@IamRed-One](https://github.com/iamRed-One) |
-| Shehu Sadiq Musa | U23CS1020 | [@svdeeq21](https://github.com/svdeeq21) |
